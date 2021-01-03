@@ -8,7 +8,7 @@
 //communication uart0/1
 #define UART_COM 1
 
-#define CHOPPER_TIMING  CHOPPER_DEFAULT_12V
+#define CHOPPER_TIMING  CHOPPER_DEFAULT_24V
 
 // Print simple drive status information
 // #define TMC_DEBUG
