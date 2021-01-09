@@ -39,10 +39,10 @@
 *
 *  Set currents   0~31    {AX_PUL , AX_SEL , AX_IDL}
 */
-#define CURRENT_HOLDING_STEALTH {1, 8, 8}
-#define CURRENT_HOLDING_NORMAL  {1, 8, 8}
-#define CURRENT_RUNNING_STEALTH {20, 22, 22}
-#define CURRENT_RUNNING_NORMAL  {22, 23, 25}
+#define CURRENT_HOLDING_STEALTH {1, 8, 28}
+#define CURRENT_HOLDING_NORMAL  {1, 8, 28}
+#define CURRENT_RUNNING_STEALTH {25, 25, 28}
+#define CURRENT_RUNNING_NORMAL  {25, 25, 28}
 #define CURRENT_HOMING          {1, 22, 22}
 
 //number of extruders [1 2 3 4 5]
